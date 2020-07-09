@@ -4,7 +4,7 @@ function connect_to_database()
 {
     $severname="localhost";
     $username="root";
-    $password="";
+    $password="root";
     $databasename="basetest01";
 
 
